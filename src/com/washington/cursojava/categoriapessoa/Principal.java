@@ -1,4 +1,4 @@
-package com.washington.cursojava.aula11;
+package com.washington.cursojava.categoriapessoa;
 
 public class Principal {
 
