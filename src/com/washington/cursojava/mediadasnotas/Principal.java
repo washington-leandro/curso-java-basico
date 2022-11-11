@@ -1,4 +1,4 @@
-package com.washington.mediadasnotas;
+package com.washington.cursojava.mediadasnotas;
 
 import java.util.Scanner;
 
