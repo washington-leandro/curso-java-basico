@@ -98,7 +98,7 @@ public class AgendaDeCompromissos {
             }
 
         }        
-    scan.close();
+        scan.close();
 	}
 
 }
