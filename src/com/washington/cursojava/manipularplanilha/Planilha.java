@@ -1,4 +1,4 @@
-package manupularplanilha;
+package com.washington.cursojava.manipularplanilha;
 
 public class Planilha {
 
